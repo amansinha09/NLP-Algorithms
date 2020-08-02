@@ -21,3 +21,39 @@ Pipeline of NLP involves:
 ```
 Based on the requirement, sometimes we need only the first part, where we want the machine to understand the language, while the other time we want the machine to respond back in form of language as well.
 
+
+# Lecture 2 - Examples of Text
+There are different types of text available and each of them provide different set of challenges. For examples, a news articles may consists of different parts such as current event, background event, speculations, property, and, prenominal reference to previous sentences.
+
+There can be different genres of text: Blogs, emails, press release, chats, debates, medical records, research articles, literary texts, etc, and of different lengths.
+Poetry can be more different to understand.
+
+# Lecture 3 - Funny Sentences
+There can be also sentences that can be interpreted in different ways maybe sometimes in unintended way.
+(Mostly because used phrase can have multiple interpretations)
+- Lexical ambiguity 
+- Structure ambiguity
+- Scope ambiguity
+- Others
+
+# Lecture 4 - Administration of course
+ Major topics
+ - Linguistics, mathematicsla, computational background
+ - morphology, syntax, semantics, discourse, pragmatics
+ - Core NLP: parsing, pos, text generation
+ - Applications: text classification, machine translation, information extraction.
+  
+ Goals:
+ - basic principles and theoretical issues
+ - techniques to develop practical robust systems
+ - Open research problems
+ 
+ Books:
+ Speech and Languagge Processing - Jurafsky
+ Foundation of Language Processing - Chris manning
+ Natural Language Understanding - James Allen
+ 
+ Alphabet Soup:
+ NLP, CL, IR, SP, HLT, NLE, ML
+ 
+ 
