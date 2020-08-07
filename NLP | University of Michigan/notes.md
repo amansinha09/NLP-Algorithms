@@ -57,3 +57,41 @@ There can be also sentences that can be interpreted in different ways maybe some
  NLP, CL, IR, SP, HLT, NLE, ML
  
  
+# Lecture 5: Why is NLP Hard?
+- There can be different interpretation like straight-forward interpretation , metaphorical interpretation.
+- Common Sense Reasoning - word order, two sentence may look  very similar becuase of many subtle interactions.
+- syntax and semantics.
+- Word Ambiguity - due to meaning, part of speech, pronunciation (address, number)
+- language ambiguity - noun noun phrase (XY)Z or X(YZ)
+
+* NACLO Problems Challenges
+
+Type of Ambihguity
+-Morphological eg. impossible, important
+-Phonetic eg. Joe's finger got number
+-Part of Speech eg. Joe won the first round.
+-Syntactic eg. Call Joe a taxi.
+-Prepositional (Pp) attachment eg. Joe ate pizza with a fork / with meatballs / with Samantha / with pleasure.
+-Sense eg. Joe took the bar exam.
+-Modaltiy eg. Joe may win a lottery
+-Subjectivity eg. Joe believes that stocks will rise.
+-Cc (Coordinating conjuction) eg. Joe like ripe apples and pears.
+-Negation eg. Joe like his pizza with no cheese and tomatoes.
+-Referential eg. Joe yelled at Mike. He had broken the bike.
+-Reflexive eg. John bought him a present
+-Ellipsis and parallelism eg. Joe gives Mike a beer and Jeremy a glass of wine.
+-Metonymy eg. Boston called and left a message for Joe.
+
+Other source of difficulties 
+-Non-standard, slang, and novel words
+-Inconsistencies
+-Typoes and gramattical errors
+-Parsing problems
+-Complex sentences
+-Conterfactual sentences
+-Humor and Sarcasm
+-Implicature/inference/world knowledge
+-Semantics vs Pragmatics (How sentences are used for certain goals)
+
+Synonyms and Paraphrases
+eg. climbed, gained, rose
