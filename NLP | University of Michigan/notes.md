@@ -95,3 +95,39 @@ Other source of difficulties
 
 Synonyms and Paraphrases
 eg. climbed, gained, rose
+
+# Lecture 6: Background
+More of Linguistics Knowledge
+a) Constituents: unit of synatax of sentences e.g. __Children__ eat pizza. __They__ eat pizza. (Note: repalceable subject or sometimes no subjects e.g. Eat pizza!)
+b) Collocations: synonyms are not always interchangable. Big vs Large sister.
+
+How do we get these knowledge into system?
+- Manual rules
+- Knowledge corpora
+
+c) Phonetics and phonology - study of sounds
+d) Morphology - study of word components
+e) Syntax - study of sentences and phrase structure
+f) Lexical semantics - study of meaning of words
+g) Compositional semantics - how to combine words
+h) Pragmatics - how to accomplish goals
+i) Discourse conventions - how to deal with larger unit of utterances
+j) Different level of languages
+
+Computer Knowledge
+a) Finite state automata - to encode sequences of words
+b) Transducer - combined with (a) to perform some phonological or morpphological analysis
+c) Push-Down automata - to process more sophesticated grammar
+d) Grammars - reglular grammer, context-free grammer, context-sensitive grammer
+e) Complexity
+f) Algorithms  - DP 
+
+Mathematics - Proabablity, Statistical models, Hypothesis Testing, Linear Algebra, Optimization, Numerical Methods
+
+Computational tools- Language models, Estimation methods, Context-free grammars (for trees), Hidden Markov Models (for sequence), Conditional Random Fields (CRF), Generative and Discriminative models, Maximum entropy models
+
+Statistical tools
+- Vector space representation for Wsd, Nosiy channel for MT, Graph based random walk methods for sentiment analysis
+
+Artificial Intelligence
+- Logic (First order logic, Predictive Calculus), Agent (Speech Acts), Planning, Constraint satisfaction, Machine learning
