@@ -131,3 +131,37 @@ Statistical tools
 
 Artificial Intelligence
 - Logic (First order logic, Predictive Calculus), Agent (Speech Acts), Planning, Constraint satisfaction, Machine learning
+
+
+# Lecture 7: Linguistics
+how is nlp is related to linguistics?
+Linguistics is study of language, and is related to aspeccts such as sounds , syntactic, change over time.
+example: IPA Chart (sound systems reference) for consonants and verbs.
+
+* Language are usually relted to each other; cognates e.g. night (english), nuit (frencch), nacht (dutch) and are derived from Proto-Indo European language.
+finnish, hungarian, arabic, etc are non indo european languages.
+
+* language family ; language diversity Ethnologue(7358 languages)
+
+* change of language over time ; grimms law:
+voiceless stops -> voiceless fricative
+voiced stops -> voiceless stop, and so on.
+
+See: NACLO Problem
+See: Beowulf Poem (Old English)
+
+Diversity of Languages:
+- Articles not present in russian language
+- cases e.g. In latin, order of word in determined by cases Puer puellam vexat
+- sound systems e.g. glottal stop uh-oh
+- social status (e.g. japenese otousan, chichi)
+- kinships (warlpiri kinship challenge)
+
+Language Universal
+two types: unconditional and conditional
+all have verbs and nouns; consonants and nouns;
+
+In declarative sentences with nominal subject and object, the dominant order is always one in which the subject precedes the object.
+If inflecions exists then derivation exists eg. sleep to sleeps, drink to drinkable
+
+See: WALS (World Atlas of Language Structure)
