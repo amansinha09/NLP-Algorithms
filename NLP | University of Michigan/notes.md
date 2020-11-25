@@ -164,4 +164,35 @@ all have verbs and nouns; consonants and nouns;
 In declarative sentences with nominal subject and object, the dominant order is always one in which the subject precedes the object.
 If inflecions exists then derivation exists eg. sleep to sleeps, drink to drinkable
 
-See: WALS (World Atlas of Language Structure)
+See: WALS (World Atlas of Language Structure), Ethnologue, Endangered languages
+
+
+# Lecture 8: Text Similarity
+Important application of linguistics and statistics to NLP and help in many different applications.
+
+Express same concepts in many different ways
+- "the plane leaves at 12 pm" "the flight depart at noon"
+- cat documents asked for IR tasks, so kitten documents also to be considered
+- fruit dessert asked, "peach tart" or "apple cobbler" should also be considered
+- Dulles and Dallas - ambiguity in speech recognition system
+
+Human judgement of similarity
+tiger vs tiger 10
+tiger vs cat 7.35
+
+variance was pretty high, although it agreed on overall judgement
+
+Automatic similarity computation (Mikolov 2013)
+words similar to "france" - spain, belguim (countries near france geographically)
+
+Types of similarity:
+
+- morphological similarity e.g. respect respectful
+- splelling similarity e.g. theater theatre
+- synonymy eg. talktive chatty
+- homophony eg. raise raze rays
+- semantic similarity
+- sentence similarity
+- document similarity
+- cross lingual similarity
+
